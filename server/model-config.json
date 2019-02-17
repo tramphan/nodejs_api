@@ -12,19 +12,19 @@
   },
   "AccessToken": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "ACL": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "RoleMapping": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "Role": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "Customer": {
     "dataSource": "db",
@@ -32,23 +32,23 @@
   },
   "Address": {
     "dataSource": "transient",
-    "public": false
+    "public": true
   },
   "EmailAddress": {
     "dataSource": "transient",
-    "public": false
+    "public": true
   },
   "Account": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "Author": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "Reader": {
     "dataSource": "db",
-    "public": false
+    "public": true
   },
   "Book": {
     "dataSource": "db",
@@ -56,7 +56,7 @@
   },
   "Link": {
     "dataSource": "transient",
-    "public": false
+    "public": true
   },
   "Order": {
     "dataSource": "db",
